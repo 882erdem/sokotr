@@ -1,3 +1,4 @@
 # Fwhy soko bot alt yapısı
 
-- glitch de çalışmaz!!!
+- glitch de denenmedi 
+- deneyen ilk kişi sen ol
